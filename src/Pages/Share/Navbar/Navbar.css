@@ -1,0 +1,25 @@
+.my-navbar{
+    background-color: rgba(20, 20, 20, 0.904);
+    
+}
+.nav-link{
+  
+    margin-left: 1rem;
+   }
+.nav-link:hover{
+    color: rgb(10, 155, 212);
+}
+.login-btn{
+    border-radius: 20px;
+    border: 1px solid white;
+    color: white;
+    margin-left: 1rem;
+    
+}
+.login-btn:hover{
+    background-color: white;
+     color:rgb(10, 155, 212) ;
+     font-weight: 600;
+   
+}
+
